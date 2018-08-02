@@ -115,5 +115,6 @@
     "test-only": "ava",
     "watch": "npm run clean && rollup -c --watch"
   },
-  "version": "6.18.0"
+  "version": "6.18.0",
+  "image": "https://i.imgur.com/qpsV68m.png"
 }
